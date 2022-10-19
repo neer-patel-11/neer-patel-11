@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello FRIENDS , My name is NEER PATEL 
 🌱 I’m currently learning Nodejs<br>💬 Ask me about  DSA , CP , Web develpoment<br>📫 How to reach me: patelneer403@gmail.com
 
 
