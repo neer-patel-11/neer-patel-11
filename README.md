@@ -11,9 +11,9 @@
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.svg.png" width=90px></a>
 <a><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.png" width=80px height=30px></a>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=neer-patel-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=neer-patel-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neer-patel-11&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=neer-patel-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=neer-patel-11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=neer-patel-11&icon=0&color=0)](https://visitcount.itsvg.in)
