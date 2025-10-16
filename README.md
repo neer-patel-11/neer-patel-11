@@ -1,11 +1,7 @@
 # 💫 Hello  , My name is NEER PATEL 
-🌱 I’m  MERN Stack Developer<br>💬 Ask me about  DSA , CP , Web develpoment<br>📫 How to reach me: patelneer403@gmail.com
+🌱 I’m  FULL(PULL) Stack Developer<br>💬 Ask me about  DSA , AI , ML , Web develpoment<br>📫 How to reach me: patelneer403@gmail.com
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neer-patel-b316b1237/)
-<a href="https://leetcode.com/neer_11/"><img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" width=30px></a>
-<a href="https://www.codechef.com/users/neer_11"><img src="https://pbs.twimg.com/profile_images/1477930785537605633/ROTVNVz7_400x400.jpg" width=40px></a>
 # 💻 Tech Stack:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
